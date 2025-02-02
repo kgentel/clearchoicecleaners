@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/clearchoicecleaners/static/css/main.aa6754d5.css",
+    "main.js": "/clearchoicecleaners/static/js/main.36f4847d.js",
+    "static/media/logoDark.png": "/clearchoicecleaners/static/media/logoDark.db7f5544c8a9afe812e9.png",
+    "index.html": "/clearchoicecleaners/index.html",
+    "main.aa6754d5.css.map": "/clearchoicecleaners/static/css/main.aa6754d5.css.map",
+    "main.36f4847d.js.map": "/clearchoicecleaners/static/js/main.36f4847d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa6754d5.css",
+    "static/js/main.36f4847d.js"
+  ]
+}

@@ -1,0 +1,2 @@
+:root{--primary-color:#000061;--secondary-color:#f9f9f8;--text-color:#101828}body{background-color:#f9f9f8;background-color:var(--secondary-color);color:#101828;color:var(--text-color);font-family:Montserrat;margin:auto;padding:auto;text-align:center}@media (max-width:768px){.container{padding:10px;width:100%}}@media (max-width:468px){.container{padding:10px;width:50%}}
+/*# sourceMappingURL=main.aa6754d5.css.map*/
