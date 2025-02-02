@@ -2,9 +2,9 @@
 
 /* Define the color palette using CSS variables */
 :root {
-    --primary-color: #000061;        /* Blue */
-    --secondary-color: #f9f9f8;      /* Green */       /* Yellow */    /* Light Gray */
-    --text-color: #101828;           /* Dark Gray */
+    --primary-color: #000061;    
+    --secondary-color: #f9f9f8;    
+    --text-color: #101828;    
   }
 
 
@@ -17,8 +17,6 @@ body {
     padding: auto;
     text-align: center;
   }
-
-  /* f8f8ef */
 
 
   @media (max-width: 768px) {

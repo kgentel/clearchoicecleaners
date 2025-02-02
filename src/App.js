@@ -5,7 +5,7 @@ import logoDark from './assets/logo/logoDark.png';
 const App = () => {
   return (
     <div>
-      <h2 className="primary-color" >Coming Soon...</h2>
+      <h2 style={{marginTop: '150px'}}>Closed for cleaning; coming soon!</h2>
       <img 
         src={logoDark} 
         alt="Clear Choice Cleaners"
